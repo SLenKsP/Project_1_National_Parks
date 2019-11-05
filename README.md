@@ -1,6 +1,7 @@
 # Project 1 - National Park Search
 
     - Group Project
+    - This website allows user to search national parks and famous places in any of states of United States
 
 ### Technologies Used
 
